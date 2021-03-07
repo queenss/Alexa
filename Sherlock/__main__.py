@@ -12,7 +12,7 @@ from Sherlock.sql.chat_sql import add_chat_to_db
 start_text = """
 Hey [{}](tg://user?id={}),
 I'm [Alexa🎶](https://telegra.ph/file/dbed7ae52ae9e91261abc.jpg)
-I'm a music bot created by @mr_srlock.
+I'm a music bot created by @dieaena
 Just send me the song name you want to download.
 Eg: ```/song Love me like you do```
 """
